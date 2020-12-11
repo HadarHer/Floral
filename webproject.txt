@@ -1,0 +1,1370 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>First Assigment</title>
+        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"/>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Baloo+Da+2:wght@400;500;600;800&family=Josefin+Slab:ital,wght@0,300;0,400;1,200;1,300;1,400&family=Mulish:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap" rel="stylesheet"/>   
+    </head>
+
+
+    <body>
+
+    
+     <div class="container">
+        <div class="hamburger-menu">
+            <div class="line line-1"> </div>
+            <div class="line line-2"> </div>
+            <div class="line line-3"> </div>
+            <span>Close</span>
+        </div>
+
+        <header class="header">
+        <div class="upperimage">
+            <img src="C:\Users\user\Desktop\web\images\1.png" alt="companyimage">
+        </div> 
+
+            <div class="banner">
+                <h1>Floral arragment</h1>
+                <p>Perfect Style for perfect event</p>
+                <button>discover now</button>
+            </div>
+        </header>
+
+
+        <section class="sidebar">
+            <ul class="menu">
+                <li class="menu-link">
+                    <a href="#" class="menu-link" data-content="Home">Home</a>
+                 </li>
+                <li class="menu-link">
+                    <a href="#" class="menu-link" data-content="About Us">About Us</a>
+                </li>
+                <li class="menu-link">
+                    <a href="#" class="menu-link" data-content="Our Events">Our Events</a>
+                </li>
+                <li class="menu-link">
+                    <a href="#" class="menu-link" data-content="Wine&Chocolate">Wine&Chocolate</a>
+                </li>
+                <li class="menu-link">
+                    <a href="#" class="menu-link" data-content="Order">Order</a>
+                </li>
+            </ul>
+            <div class="social-media">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+            </div> 
+        </section>
+
+
+     <section class="about-us">
+
+         <div class="section-header">
+             <h1 class="section-heading">About Us</h1>
+             <div class="underline"></div>  
+         </div>
+
+         <div class="services">
+             <div class="service">
+                <div class="service-header">
+                    <i class="fas fa-hand-point-right"></i>
+                    <i class="fas fa-ring"></i>
+                    <h3>Weddings</h3>
+                </div>
+                <p class="service-text"> We allways brings beautiful  </p>
+                <p class="service-text"> design,value, personalization </p>
+                <p class="service-text"> and efficiency to wedding</p>    
+                <p class="service-text"> flower shopping. We work </p>
+                <p class="service-text"> with farms around the world  </p>   
+                <p class="service-text"> to bring a diverse variety</p>   
+                <p class="service-text"> of fresh flowers to our</p>
+                <p class="service-text"> Shop from our couples.</p>   
+                <p class="service-text"> top selling collections or </p>   
+                <p class="service-text"> let our design concierge</p>     
+                <p class="service-text"> modify a design to fit your vision.</p>
+             </div>
+
+
+             <div class="service">
+                <div class="service-header">
+                    <i class="fas fa-birthday-cake"></i>
+                    <h3>Birthdays</h3>
+                </div>
+                <p class="service-text"> An eye-catching birthday flower delivery, </p>
+                <p class="service-text"> hand-delivered by a local florist, </p> 
+                <p class="service-text">  is the perfect way to say Happy Birthday! </p>
+              </div>
+
+
+             <div class="service">
+                <div class="service-header">
+                    <i class="fas fa-heart"></i>
+                    <h3>Proposal</h3>
+                </div>
+                <p class="service-text"> Proposal coming up? </p>
+                <p class="service-text"> Let us help you with it! </p> 
+                <p class="service-text"> Send with Bouquets and  </p> 
+                <p class="service-text"> Gifts styled by our Premium </p> 
+                <p class="service-text"> Floral Designs, We offer </p>
+                <p class="service-text"> floral arrangements that </p>
+                <p class="service-text"> different would definitely</p>
+                <p class="service-text">  impress your other half!</p>   
+           
+             </div>
+
+
+             <div class="service">
+                <div class="service-header">
+                    <i class="fas fa-store-alt"></i>
+                 <h3>We are all about flowers</h3>
+                </div>
+                <p class="service-text">At Floral-Events, we're proud to have been connecting customers  </p>
+                <p class="service-text"> with the nation's best florists for more than 81 years.</p>    
+                <p class="service-text">  in Israel, Tel-Aviv, Floral-Events Headquartered</p> 
+                <p class="service-text">  has over 5,000 member florists throughout the country. </p> 
+                <p class="service-text">  with an additional 10,000 affiliated florists outside the country borders.</p>      
+           
+                
+             </div>
+            <div class="about-us-img-wrapper">
+                <img src="C:\Users\user\Desktop\web\images\2.png">
+            </div>
+         </div>
+     </section>
+
+     <section class="current-events">
+        <div class="section-header">
+            <h1 class="section-heading">Our Evnets</h1>
+            <div class="underline"></div>  
+        </div>
+        <div class="cards-wrapper">
+            <div class="card" data-tilt>
+                <div class="card-img-wrapper"> 
+                    <img src="C:\Users\user\Desktop\web\images\3.png" alt="Birthday"> 
+                </div>
+                <div class="card-info">
+                    <h2>blabla</h2>
+                    <h3>Birthday</h3>
+                    <p>dummy text</p>
+                    <button>Read More</button>
+                </div>
+            </div>
+            <div class="card" data-tilt>
+                <div class="card-img-wrapper"> 
+                    <img src="C:\Users\user\Desktop\web\images\4.png" alt="Wedding"> 
+                </div>
+                <div class="card-info">
+                    <h2>blabla</h2>
+                    <h3>Weddings</h3>
+                    <p>dummy text</p>
+                    <button>Read More</button>
+                </div>
+            </div>
+            <div class="card" data-tilt>
+                <div class="card-img-wrapper"> 
+                    <img src="C:\Users\user\Desktop\web\images\5.png" alt="Proposal"> 
+                </div>
+                <div class="card-info" data-tilt>
+                    <h2>blabla</h2>
+                    <h3>Proposal</h3>
+                    <p>dummy text</p>
+                    <button>Read More</button>
+                </div>
+            </div>
+        </div>
+     </section>
+
+     <section class="wineandroses">
+        <div class="section-header">
+            <h1 class="section-heading">Wine & Roses</h1>
+            <div class="underline"></div>  
+        </div>
+
+        <div class="grid-textandphotos">
+
+            <div class="textplacment">
+                <div class="text-header">
+                    <i class="fas fa-wine-bottle"></i>
+                        <h3>Our wine</h3>
+                </div>    
+
+                <p class="textplacment-text">wine bullshit</p>
+            </div>
+
+            <div class="textplacment">
+                <div class="text-header">
+                    <i class="fas fa-store-wine"></i>
+                        <h3>Our Roses</h3>
+                 </div>
+                 
+                 <p class="textplacment-text">sagsagsag</p>
+            </div>
+
+           
+             <div class="image-wrapper-rose">
+                <img src="C:\Users\user\Desktop\web\images\7.png"></a>
+             </div>
+            
+             <div class="image-wrapper-wine">
+                <img src="C:\Users\user\Desktop\web\images\6.png"></a>
+             </div>
+        </div>
+     </section>
+       
+     <section class="contact">
+         <div class="contact-wrapper">
+             <div class="contact-left">
+
+             </div>
+             <div class="contact-right">
+                 <h1 class="contact-heading">Contact</h1>
+                 <form>
+                     <div class="input-group">
+                         <input type="text" class="field">
+                         <label class="input-label">Full Name</label>
+                     </div>
+                     <div class="input-group">
+                        <input type="email" class="field">
+                        <label class="input-label">E-mail</label>
+                    </div>
+                    <div class="input-group">
+                        <textarea class="field"></textarea>
+                        <label class="message">Message</label>
+                    </div>
+                    <input type="submit" class="submit-btn" value="Submit"/>
+        
+                 </form>
+             </div>
+         </div>
+     </section>
+
+
+     </div>
+
+
+     <a href="#" class="scroll-btn"><i class="fas fa-arrow-up"></i></a>
+
+
+     <script src="script.js"></script>
+     <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+     <script src="tilt.js"></script>
+    </body>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <p class="copyright">
+                Copyright &copy; 2020, CodeAndCreate - All Rights Reserved
+            </p>
+            <div class="social-list">
+                <a href="#"><i class="fab fa-facebook"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+            </div>
+        </div>
+    </footer>
+</html>
+
+
+
+
+
+
+
+
+
+##########################CSS######################
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing:border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+
+/* start text on company imaGe styles*/
+
+    
+@keyframes scale{
+    0%{
+        transform: scale(1.1);
+    }
+    100%{
+        transform: scale(1);
+    }
+}   
+.header{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+.upperimage{
+width: 100%;
+height: 100%;
+background-color:rgba(0, 0, 0, 0.8);
+
+ }
+
+ .upperimage img{
+     width: 100%;
+     height: 100%;
+     object-fit: cover;
+     opacity: .7;
+     animation: scale 3s;
+ }
+
+
+
+ 
+/* end text on company imaGe styles*/
+
+/* start: banner  */
+
+@keyframes movebanner{
+    0%{
+        transform: translateY(40rem)rotateY(-20deg);
+    }
+    100%{
+        transform: translateY(0)rotate(0);
+        opacity: 1;
+
+    }
+}
+
+.banner{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    perspective: 100rem;
+    overflow: hidden;
+}
+
+.banner h1{
+    font-family: 'baloo Da 2';
+    font-size: 5rem;
+    font-weight: 300;
+    color: white;
+    width: 100%;
+    line-height: 6rem;
+    letter-spacing: 1rem;
+    text-shadow: 0.3rem .5rem  rgba(0, 0 , 0 ,0.4);
+    opacity: 0;
+    animation: movebanner 0.7s .3s forwards;
+}
+
+.banner p{
+    font-family: 'Josefin Slab';
+    font-size:2.5rem;
+    color: white;
+    width: 100%;
+    letter-spacing: 0.1rem;
+    margin-bottom: 1.5rem;
+    text-shadow: 0.3rem .5rem  rgba(0, 0 , 0 ,0.4);
+    opacity: 0;
+    animation: movebanner 0.7s .5s forwards;
+}
+
+.banner button{
+    width: 15rem;
+    height: 4rem;
+    background-color: rgba(248, 184, 63, 0.748);
+    border:none;
+    font-family: 'Muli', serif;
+    text-transform: uppercase;
+    color: white;
+    text-shadow: 0 0.2rem .4rem  rgba(0, 0 , 0 ,0.2);
+    box-shadow: 0 0.3rem .5rem  rgba(0, 0 , 0 ,0.4);
+    cursor: pointer;
+    opacity: 0;
+    animation: movebanner 0.7s 0.7s forwards;
+
+}
+
+
+/* end: banner  */
+
+
+
+
+/* start: HAMBURGERMENU  */
+
+
+
+.hamburger-menu{
+    width: 2rem;
+    height: 2rem;
+    position: fixed;
+    top: 4rem;
+    right: 3rem;
+    z-index: 200;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    cursor: pointer;
+    transition: right 0.6s;
+
+}
+
+.change .hamburger-menu{
+    right: 27rem;
+
+}
+.line{
+    width: 100%;
+    height: 0.2rem;
+    background-color: white;
+    box-shadow: 0.1rem .2rem rgba(0, 0 , 0 ,0.8);
+}
+
+.line{
+    background-color: white(0, 0, 0, 0.8);
+}
+
+.hamburger-menu span{
+    position: absolute;
+    left:4rem;
+    width: 5rem;
+    height: 2.8rem;
+    background-color: #e2b646;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family:'Baloo Da 2';
+    font-size: 1.6rem;
+    letter-spacing: 0.1rem;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.2s;
+}
+
+.change .hamburger-menu:hover span{
+    opacity: 1;
+    visibility: visible;
+}
+
+.hamburger-menu span::before{
+    content: "";
+    position: absolute;
+    border-left: 1rem solid transparent;
+    border-right: 1rem solid #e2b646;
+    border-bottom: 2rem solid transparent;
+    border-top: 2rem solid transparent;
+    top: 50%;
+    left:-2.0rem;
+    transform: translateY(-50%);
+}
+
+
+
+.sidebar{
+    width: 30rem;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    right: -30rem;
+    background-color: white;
+    transition: right .5s;
+    z-index: 100;
+}
+
+.change .sidebar{
+    right: 0;
+}
+
+
+.menu{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.menu-link{
+    text-align: center;
+}
+
+.menu-link{
+    font-family: 'baloo Da 2';
+    font-size: 2.8rem;
+    color: #555;
+    position: relative;
+
+}
+
+.menu-link::before{
+    content: attr(data-content);
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: rgba(248, 184, 63, 0.748);;
+    width: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    transition: width 0.3s ease-in-out;
+}
+
+.menu-link:hover::before{
+    width: 100%;
+}
+
+
+
+
+
+.social-media{
+    position: absolute;
+    bottom: 3rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.social-media i{
+    font-size: 2.2rem;
+    margin: 1.5rem;
+    width: 3.5rem;
+    height: 3.5rem;
+    background-color: darkgrey;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    transition: background-color 0.3s ;
+
+}
+
+.social-media i:hover{
+    background-color: orange
+}
+
+
+
+
+/* end: HAMBURGERMENU  */
+
+
+
+/* start: ABOUT US  */
+
+    .about-us{
+        width: 100%;
+        background-color:#f5f5f5;
+        padding-bottom: 15;
+        
+    }
+
+    .section-header{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 3rem 0 2.5rem 0;
+    }
+
+    .section-heading{
+        font-family: 'Muli', serif;
+        font-size: 5rem;
+        font-weight: 500;
+        color:#4b4b4b ;
+        margin-bottom: 1rem;
+    }
+
+    .underline{
+        width: 18rem;
+        height: .3rem;
+        background-color: #c28525;
+    }
+    .about-us-img-wrapper img{
+        width: 58rem;
+        height: 80%;
+        object-fit: cover;
+        opacity: 0.9;
+    }
+    .about-us-img-wrapper{
+        grid-column: 5/11;
+        grid-row: 5/16;
+        width: 100%;
+       
+    }
+    .services{
+        width: 100%;
+        height: 100%;
+        display: grid;
+        grid-template-columns: repeat(16,1fr);
+        grid-template-rows: repeat(18,2rem);
+        grid-row-gap: 1em;
+    }
+    .service{
+        width: 100%;
+        margin-bottom: 2rem;
+    }
+
+    .service:nth-child(1){
+        grid-column: 13/16;
+        grid-row: 5/16;
+    }
+
+    .service:nth-child(2){
+        grid-column: 7/16;
+        grid-row: 14/16;
+
+    }
+    .service:nth-child(3){
+        grid-column: 3/16;
+        grid-row: 5/16;
+    }
+    .service:nth-child(4){
+        grid-column: 7/16;
+        grid-row: 1/7;
+    }
+
+    .servie-header{
+        display: flex;
+        align-items: center;
+        margin-bottom: 1rem;
+    }
+
+    .service-header i{
+        font-size:3rem;
+        color: #4b4b4b;
+
+    }
+
+    .service-header h3{
+        font-family:'Baloo Da 2';
+        font-size: 1.6rem;
+        line-height: 2.6rem;
+        font-weight: 400;
+        margin-bottom: 0.1rem;
+    }
+
+    .service-text{
+        font-family: 'Josefin Slab';
+        font-size: 1.2rem;
+        text-align: justify;
+    }
+    
+
+/* end: ABOUTUS  */
+
+
+/* start: Our-Events  */
+    .current-events{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0 5rem 10rem 5rem;
+    }
+
+    .cards-wrapper{
+        display: flex;
+        justify-content: space-evenly;
+        margin-top :4rem;
+        width: 85%;
+    }
+
+    .card{
+        width: 22rem;
+        height: 30rem;
+        box-shadow: 0 1rem 4rem rgba(0, 0, 0, 0.4);
+        border-radius: 0.5rem;
+        position: relative;
+    }
+
+    .card-img-wrapper{
+        width: 100%;
+        height: 100%;
+        background-color: #262626;
+        border-radius: 0.5rem;
+    }
+
+    .card-img-wrapper img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        opacity: 0.8;
+        border-radius: 0.5rem;
+        transition: opacity 0.3s;
+    }
+
+
+
+    .card:hover .card-img-wrapper img{
+        opacity: 0.5;
+
+    }
+
+    .card-info{
+        position: absolute;
+        bottom: 0;
+        padding: 2rem;
+        text-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.4);
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    .card:hover .card-info{
+        bottom: 2rem;
+        opacity: 1;
+        visibility: visible;
+        transition: all 0.3s;
+    }
+
+    .card-info h2{
+        font-family: 'Baloo Da 2', serif;
+        font-size: 2.5rem;
+        line-height: 2.5rem;
+        font-weight: 300;
+        color: #eeeeee;
+    }
+
+    .card-info h3{
+        font-family: 'muli',serif;
+        font-size: 2rem;
+        font-weight: 500;
+        color: rgba(249, 204, 253, 0.748);
+        margin-bottom: 1rem;
+    }
+
+    .card-info p{
+        font-family: 'Baloo da 2', serif;
+        font-size: 1.4rem;
+        line-height: 1.6rem;
+        font-weight: 3001;
+        color: #eeeeee;
+        width: 80%;
+        margin-bottom: 2rem;
+    }
+
+    .card-info button{
+        width: 10rem;
+        height: 3rem;
+        background-color: rgba(248, 184, 63, 0.748);
+        border:none;
+        font-family: 'Baloo Da 2',serif;
+        font-size: 1.4rem;
+        line-height: 1.5rem;
+        color: #eeeeee;
+        border-radius: 0.3rem;
+        box-shadow: 0.1rem 0.8rem rgba(0, 0, 0, 0.4);
+    }
+
+
+/* end: Our-Events  */
+
+
+/*start: wine and roses */
+
+.wineandroses{
+    width: 100%;
+    background-color: #f5f5f5;
+    padding-bottom: 15;
+}
+
+
+.grid-textandphotos{    
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(2);
+    grid-template-rows: repeat(2);
+    position: relative;
+   
+}
+
+.image-wrapper-wine{
+    grid-row: 1/2;
+    grid-column: 1/2;
+    width: 100%;
+}
+
+.image-wrapper-wine img{
+    width: 50rem;
+    height: 30rem;
+    padding-left: 15rem;
+    
+}
+
+
+.image-wrapper-rose {
+    grid-row: 2/2;
+    grid-column: 2/2;
+    width: 100%;
+}
+
+.image-wrapper-rose img{
+    width: 50rem;
+    height: 30rem;
+    padding-right: 15rem;
+}
+
+.textplacment:nth-child(1)
+{
+    grid-row: 1/2;
+    grid-column: 2/2;
+}
+.textplacment:nth-child(2)
+{
+    grid-row: 2/2;
+    grid-column: 1/2;
+    padding-left: 15rem;
+}
+.text
+
+
+
+.text-header i{
+    font-size: 1.2rem;
+    color: #4b4b4b;
+    top: 80%;
+    right: 70%;
+
+}
+.text-header h3{
+    font-family:'Baloo Da 2';
+    font-size: 1.6rem;
+    line-height: 2.6rem;
+    font-weight: 400;
+    margin-bottom: 0.1rem;
+}
+
+.textplacment-text{
+    font-family: 'Josefin Slab';
+    font-size: 1.2rem;
+    text-align: justify;
+}
+
+.text-position{
+    align-items: right;
+
+}
+
+/*end wine and roses */   
+
+/*start contact section */   
+
+.contact{
+    width: 100%;
+    height: 100vh;
+    background-color: #272727;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-wrapper{
+    width: 50%;
+    height: 40rem;
+    display: flex;
+    box-shadow: 0 3rem 7rem rgb(0, 0, 0, 0.5);
+}
+
+.contact-left{
+    width: 35%;
+    background: linear-gradient(rgba(1,1,1, 0.1), rgba(22,22,22, .9)), 
+    url(images/8.PNG) center no-repeat;
+    background-size:cover;
+}
+
+.contact-right{
+    width: 65%;
+    background-color: #EEE;
+    padding: 3rem 10rem 10rem 10rem;
+}
+
+.contact-heading{
+    font-family: 'Baloo Da 2', serif;
+    font-size: 4rem;
+    font-weight: 300;
+    color: #272727;
+    margin-bottom: 0.1rem;
+    text-align: center;
+}
+
+.contact-right form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.input-group{
+    position: relative;
+}
+.field{
+    width: 25rem;
+    background-color: transparent;
+    border: none;
+    border-bottom: 0.2rem dashed #636363;
+
+    margin: 0.6rem 0;
+    padding: 5rem 2rem 1rem 0;
+    font-family: 'Muli',serif;
+    font-size: 1.6rem;
+    color: #4b4b4b;
+}
+
+.input-group input{
+    height: 2rem;
+}
+
+.input-group textarea{
+    max-height: 7rem;
+    max-width: 25rem;
+}
+
+.field:focus{
+    border-bottom-style: solid;
+}
+
+
+.input-group label{
+    position: absolute;
+    left:0;
+    font-family: 'Baloo Da 2', serif;
+    font-size: 1.8rem;
+    color: #4b4b4b;
+    text-transform: uppercase;
+    pointer-events: none;
+    padding-top: 1rem;
+    transition: all 0.3s ;
+}
+
+.input-label{
+    top: 3rem;
+}
+.message{
+    top: 1.5rem;
+}
+
+.field:focus ~ label{
+    transform: translateY(-1rem);
+    font-size: 1.2rem;
+}
+
+.submit-btn{
+    width: 20rem;
+    height: 2rem;
+    background-color: #c29525;
+    color: #fff;
+    border:none;
+    margin-top:1rem;
+    font-family: 'Muli', serif;
+    font-size: 1.5rem;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+    cursor: pointer;
+    text-shadow: 0 0.1rem 0.3rem rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0.1rem 0.3rem rgba(0, 0, 0, 0.3);
+}
+
+
+
+/*end contact section */   
+
+/*start footer*/
+.footer{
+    width: 100%;
+    height: 10rem;
+    background-color: #17181b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-content{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.copyright{
+    font-family: 'Baloo Da 2', serif;
+    font-size: 1rem;
+    color: #a7a6a6;
+}
+
+.social-list a{
+    margin: 0  2rem;
+}
+
+.social-list i{
+    font-size: 2rem;
+    color: #a7a7a7;
+}
+
+.scroll-btn{
+    position: fixed;
+    right: 2.5rem;
+    bottom: 3rem;
+    width: 3.5rem;
+    height: 3.5rem;
+    background-color: #e2b646;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: #fff;
+    box-shadow: 0 0.1rem 0.6rem rgba(0, 0, 0, 0.2);
+    border-radius: 0.3rem;
+}
+
+/* end footer section */
+
+
+
+
+
+
+
+
+
+
+######TILT.JS#####
+
+
+ (function (factory) {
+    if (typeof define === 'function' && define.amd) {
+        // AMD. Register as an anonymous module.
+        define(['jquery'], factory);
+    } else if (typeof module === 'object' && module.exports) {
+        // Node/CommonJS
+        module.exports = function( root, jQuery ) {
+            if ( jQuery === undefined ) {
+                // require('jQuery') returns a factory that requires window to
+                // build a jQuery instance, we normalize how we use modules
+                // that require this pattern but the window provided is a noop
+                // if it's defined (how jquery works)
+                if ( typeof window !== 'undefined' ) {
+                    jQuery = require('jquery');
+                }
+                else {
+                    jQuery = require('jquery')(root);
+                }
+            }
+            factory(jQuery);
+            return jQuery;
+        };
+    } else {
+        // Browser globals
+        factory(jQuery);
+    }
+}(function ($) {
+    $.fn.tilt = function (options) {
+
+        /**
+         * RequestAnimationFrame
+         */
+        const requestTick = function() {
+            if (this.ticking) return;
+            requestAnimationFrame(updateTransforms.bind(this));
+            this.ticking = true;
+        };
+
+        /**
+         * Bind mouse movement evens on instance
+         */
+        const bindEvents = function() {
+            const _this = this;
+            $(this).on('mousemove', mouseMove);
+            $(this).on('mouseenter', mouseEnter);
+            if (this.settings.reset) $(this).on('mouseleave', mouseLeave);
+            if (this.settings.glare) $(window).on('resize', updateGlareSize.bind(_this));
+        };
+
+        /**
+         * Set transition only on mouse leave and mouse enter so it doesn't influence mouse move transforms
+         */
+        const setTransition = function() {
+            if (this.timeout !== undefined) clearTimeout(this.timeout);
+            $(this).css({'transition': `${this.settings.speed}ms ${this.settings.easing}`});
+            if(this.settings.glare) this.glareElement.css({'transition': `opacity ${this.settings.speed}ms ${this.settings.easing}`});
+            this.timeout = setTimeout(() => {
+                $(this).css({'transition': ''});
+                if(this.settings.glare) this.glareElement.css({'transition': ''});
+            }, this.settings.speed);
+        };
+
+        /**
+         * When user mouse enters tilt element
+         */
+        const mouseEnter = function(event) {
+            this.ticking = false;
+            $(this).css({'will-change': 'transform'});
+            setTransition.call(this);
+
+            // Trigger change event
+            $(this).trigger("tilt.mouseEnter");
+        };
+
+        /**
+         * Return the x,y position of the mouse on the tilt element
+         * @returns {{x: *, y: *}}
+         */
+        const getMousePositions = function(event) {
+            if (typeof(event) === "undefined") {
+                event = {
+                    pageX: $(this).offset().left + $(this).outerWidth() / 2,
+                    pageY: $(this).offset().top + $(this).outerHeight() / 2
+                };
+            }
+            return {x: event.pageX, y: event.pageY};
+        };
+
+        /**
+         * When user mouse moves over the tilt element
+         */
+        const mouseMove = function(event) {
+            this.mousePositions = getMousePositions(event);
+            requestTick.call(this);
+        };
+
+        /**
+         * When user mouse leaves tilt element
+         */
+        const mouseLeave = function() {
+            setTransition.call(this);
+            this.reset = true;
+            requestTick.call(this);
+
+            // Trigger change event
+            $(this).trigger("tilt.mouseLeave");
+        };
+
+        /**
+         * Get tilt values
+         *
+         * @returns {{x: tilt value, y: tilt value}}
+         */
+        const getValues = function() {
+            const width = $(this).outerWidth();
+            const height = $(this).outerHeight();
+            const left = $(this).offset().left;
+            const top = $(this).offset().top;
+            const percentageX = (this.mousePositions.x - left) / width;
+            const percentageY = (this.mousePositions.y - top) / height;
+            // x or y position inside instance / width of instance = percentage of position inside instance * the max tilt value
+            const tiltX = ((this.settings.maxTilt / 2) - ((percentageX) * this.settings.maxTilt)).toFixed(2);
+            const tiltY = (((percentageY) * this.settings.maxTilt) - (this.settings.maxTilt / 2)).toFixed(2);
+            // angle
+            const angle = Math.atan2(this.mousePositions.x - (left+width/2),- (this.mousePositions.y - (top+height/2)) )*(180/Math.PI);
+            // Return x & y tilt values
+            return {tiltX, tiltY, 'percentageX': percentageX * 100, 'percentageY': percentageY * 100, angle};
+        };
+
+        /**
+         * Update tilt transforms on mousemove
+         */
+        const updateTransforms = function() {
+            this.transforms = getValues.call(this);
+
+            if (this.reset) {
+                this.reset = false;
+                $(this).css('transform', `perspective(${this.settings.perspective}px) rotateX(0deg) rotateY(0deg)`);
+
+                // Rotate glare if enabled
+                if (this.settings.glare){
+                    this.glareElement.css('transform', `rotate(180deg) translate(-50%, -50%)`);
+                    this.glareElement.css('opacity', `0`);
+                }
+
+                return;
+            } else {
+                $(this).css('transform', `perspective(${this.settings.perspective}px) rotateX(${this.settings.disableAxis === 'x' ? 0 : this.transforms.tiltY}deg) rotateY(${this.settings.disableAxis === 'y' ? 0 : this.transforms.tiltX}deg) scale3d(${this.settings.scale},${this.settings.scale},${this.settings.scale})`);
+
+                // Rotate glare if enabled
+                if (this.settings.glare){
+                    this.glareElement.css('transform', `rotate(${this.transforms.angle}deg) translate(-50%, -50%)`);
+                    this.glareElement.css('opacity', `${this.transforms.percentageY * this.settings.maxGlare / 100}`);
+                }
+            }
+
+            // Trigger change event
+            $(this).trigger("change", [this.transforms]);
+
+            this.ticking = false;
+        };
+
+        /**
+         * Prepare elements
+         */
+        const prepareGlare = function () {
+            const glarePrerender = this.settings.glarePrerender;
+
+            // If option pre-render is enabled we assume all html/css is present for an optimal glare effect.
+            if (!glarePrerender)
+            // Create glare element
+                $(this).append('<div class="js-tilt-glare"><div class="js-tilt-glare-inner"></div></div>');
+
+            // Store glare selector if glare is enabled
+            this.glareElementWrapper = $(this).find(".js-tilt-glare");
+            this.glareElement = $(this).find(".js-tilt-glare-inner");
+
+            // Remember? We assume all css is already set, so just return
+            if (glarePrerender) return;
+
+            // Abstracted re-usable glare styles
+            const stretch = {
+                'position': 'absolute',
+                'top': '0',
+                'left': '0',
+                'width': '100%',
+                'height': '100%',
+            };
+
+            // Style glare wrapper
+            this.glareElementWrapper.css(stretch).css({
+                'overflow': 'hidden',
+                'pointer-events': 'none',
+            });
+
+            // Style glare element
+            this.glareElement.css({
+                'position': 'absolute',
+                'top': '50%',
+                'left': '50%',
+                'background-image': `linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%)`,
+                'width': `${$(this).outerWidth()*2}`,
+                'height': `${$(this).outerWidth()*2}`,
+                'transform': 'rotate(180deg) translate(-50%, -50%)',
+                'transform-origin': '0% 0%',
+                'opacity': '0',
+            });
+
+        };
+
+        /**
+         * Update glare on resize
+         */
+        const updateGlareSize = function () {
+            this.glareElement.css({
+                'width': `${$(this).outerWidth()*2}`,
+                'height': `${$(this).outerWidth()*2}`,
+            });
+        };
+
+        /**
+         * Public methods
+         */
+        $.fn.tilt.destroy = function() {
+            $(this).each(function () {
+                $(this).find('.js-tilt-glare').remove();
+                $(this).css({'will-change': '', 'transform': ''});
+                $(this).off('mousemove mouseenter mouseleave');
+            });
+        };
+
+        $.fn.tilt.getValues = function() {
+            const results = [];
+            $(this).each(function () {
+                this.mousePositions = getMousePositions.call(this);
+                results.push(getValues.call(this));
+            });
+            return results;
+        };
+
+        $.fn.tilt.reset = function() {
+            $(this).each(function () {
+                this.mousePositions = getMousePositions.call(this);
+                this.settings = $(this).data('settings');
+                mouseLeave.call(this);
+                setTimeout(() => {
+                    this.reset = false;
+                }, this.settings.transition);
+            });
+        };
+
+        /**
+         * Loop every instance
+         */
+        return this.each(function () {
+
+            /**
+             * Default settings merged with user settings
+             * Can be set trough data attributes or as parameter.
+             * @type {*}
+             */
+            this.settings = $.extend({
+                maxTilt: $(this).is('[data-tilt-max]') ? $(this).data('tilt-max') : 20,
+                perspective: $(this).is('[data-tilt-perspective]') ? $(this).data('tilt-perspective') : 300,
+                easing: $(this).is('[data-tilt-easing]') ? $(this).data('tilt-easing') : 'cubic-bezier(.03,.98,.52,.99)',
+                scale: $(this).is('[data-tilt-scale]') ? $(this).data('tilt-scale') : '1',
+                speed: $(this).is('[data-tilt-speed]') ? $(this).data('tilt-speed') : '400',
+                transition: $(this).is('[data-tilt-transition]') ? $(this).data('tilt-transition') : true,
+                disableAxis: $(this).is('[data-tilt-disable-axis]') ? $(this).data('tilt-disable-axis') : null,
+                axis: $(this).is('[data-tilt-axis]') ? $(this).data('tilt-axis') : null,
+                reset: $(this).is('[data-tilt-reset]') ? $(this).data('tilt-reset') : true,
+                glare: $(this).is('[data-tilt-glare]') ? $(this).data('tilt-glare') : false,
+                maxGlare: $(this).is('[data-tilt-maxglare]') ? $(this).data('tilt-maxglare') : 1,
+            }, options);
+
+            // Add deprecation warning & set disableAxis to deprecated axis setting
+            if(this.settings.axis !== null){
+                console.warn('Tilt.js: the axis setting has been renamed to disableAxis. See https://github.com/gijsroge/tilt.js/pull/26 for more information');
+                this.settings.disableAxis = this.settings.axis;
+            }
+
+            this.init = () => {
+                // Store settings
+                $(this).data('settings', this.settings);
+
+                // Prepare element
+                if(this.settings.glare) prepareGlare.call(this);
+
+                // Bind events
+                bindEvents.call(this);
+            };
+
+            // Init
+            this.init();
+
+        });
+    };
+
+    /**
+     * Auto load
+     */
+    $('[data-tilt]').tilt();
+
+    return true;
+}));
+
+
+
+
+
+
+
+
+################# script.js####################
+
+document.querySelector(".hamburger-menu").addEventListener("click", () => 
+{document.querySelector(".container").classList.toggle("change");}
+);
+
+
+
+
+
+document.querySelector(".scroll-btn").addEventListener
+("click",()=> {document.querySelector("html").style.scrollBehavior = "smooth";
+setTimeout(()=> {
+document.querySelector("html").style.scrollBehavior = "unset";
+}, 1000)      
+})
